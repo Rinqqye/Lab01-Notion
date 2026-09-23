@@ -147,7 +147,7 @@ Notion — цифровой SaaS-сервис для создания и ред�
 
 Протокол: HTTPS.
 
-![Скриншот 6 — сетевой запрос saveTransactionsFanout](screenshot_06.jpeg)
+![Скриншот 6 — сетевой запрос saveTransactionsFanout](6.jpg)
 
 Скриншот 6 — сетевой запрос `saveTransactionsFanout`. На изображении видны метод POST, адрес API-запроса и успешный статус 200 OK.
 
